@@ -1,8 +1,8 @@
 ---
 title: "Secondo Respiro"
 image:
-  path: archi-di-pietra/src/2024-01-13-VERSO<-PROMETEO/2024-01-13-VERSO<-PROMETEO-300.png
-  thumbnail: archi-di-pietra/src/2024-01-13-VERSO<-PROMETEO/2024-01-13-VERSO<-PROMETEO-72.png
+  path: archi-di-pietra/src/2024-01-13-VERSO-PROMETEO/2024-01-13-VERSO-PROMETEO-300.png
+  thumbnail: archi-di-pietra/src/2024-01-13-VERSO-PROMETEO/2024-01-13-VERSO-PROMETEO-72.png
   caption: "Secondo Respiro"
 ---
 
